@@ -28,3 +28,8 @@ https://github.com/bilalparray/gallery-task.git
 ```
 
 2. Open the `index.html` file in your browser to view the gallery.
+3. Deployed Link on GitHub Pages
+
+```
+https://bilalparray.github.io/gallery-task/
+```
